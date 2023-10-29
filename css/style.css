@@ -1,0 +1,33 @@
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+
+header{
+    width: 100%;
+}
+
+.div1 h4{
+    color: #111;
+}
+
+.div1 h2{
+    color: #111;
+}
+
+.div1 h2 span{
+    color: #E527B2;
+}
+
+.div1 h6{
+    color: #111;
+}
+
+.div1 button{
+    color: #fff;
+    border-radius: 8px;
+    background: var(--e-527-b-2, #E527B2);
+    padding: 10px 20px;
+}
+
+
+   
